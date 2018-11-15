@@ -7,4 +7,7 @@ public class Welcome {
 	void add(){
 		
 	}
+	void sub(){
+		
+	}
 }
