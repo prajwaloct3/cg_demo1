@@ -10,4 +10,7 @@ public class Welcome {
 	void sub(){
 		
 	}
+	void mu(){
+		
+	}
 }
